@@ -1,0 +1,31 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ASCII                   30A2
+//	CHAR1                   3015
+//	CHAR2                   302D
+//	CHAR3                   3045
+//	CHCKC1                  3023
+//	CHCKC2                  303B
+//	CHCKC3                  3053
+//	CHCKV1                  3017
+//	CHCKV2                  302F
+//	CHCKV3                  3047
+//	CONSON1                 3021
+//	CONSON2                 3039
+//	CONSON3                 3051
+//	ENDS                    30BE
+//	ERRCHCK                 3065
+//	ERROR                   30C1
+//	GREET                   307C
+//	LETTR1                  302A
+//	LETTR2                  3042
+//	LETTR3                  305A
+//	NLINE                   30A1
+//	OUTPUT                  306F
+//	PIGL                    30A5
+//	PNT1                    30A3
+//	PNT2                    30A4
+//	VOWEL1                  301E
+//	VOWEL2                  3036
+//	VOWEL3                  304E
+//	VWLCHCK                 305D
